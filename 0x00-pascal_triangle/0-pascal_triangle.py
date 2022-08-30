@@ -20,4 +20,3 @@ def pascal_triangle(n):
             current_row.append(1)
             pascal_list.append(current_row)
     return pascal_list
-
