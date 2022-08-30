@@ -1,1 +1,1 @@
-Repo for intervieww question to return pascal's tricangle
+#Repo for alx interview questions
